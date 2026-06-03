@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main(){
-std::cout << "My name is main. I was written by Ngonidzashe Maposa" << std::endl;
+std::cout << "My name is main. I was written by a Zimbabwean" << std::endl;
 
 return 0;
 
